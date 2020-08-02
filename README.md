@@ -1,5 +1,14 @@
-### Hi there 👋
+# Hi, I'm Max Chakhmatov 🏄
 
+<img src="https://raw.githubusercontent.com/AG-Systems/AG-Systmes/master/gh-header.png" alt="">
+I'm a engineer (software, mechanical, & hardware) who loves surfing🌊, and robotics🦾. 
+
+
+## Links 🛠️: <img align="left" width="150" height="150" src="https://raw.githubusercontent.com/AG-Systems/AG-Systmes/master/gh-profile.png"></a>
+- Me helping others with code on <a href="https://stackoverflow.com/users/5487345">Stackoverflow</a>
+- My <a href="https://www.linkedin.com/in/max-chakhmatov/"> LinkedIn </a>
+- Personal <a href="https://maxchakhmatov.com/">website</a> 
+PS: Yes, my username is referrence to AG-Systems in Wipeout racing (the video game)🏎️
 <!--
 **AG-Systems/AG-Systems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
